@@ -1,0 +1,35 @@
+.login-container {
+    background-color: #E7F6FD;
+    height: 100vh;
+
+}
+
+.login-form {
+    width: 30%;
+    padding: 40px;
+    border: 3px solid #1DB2FF;
+    border-radius: 30px;
+    background-color: #fff;
+}
+
+.login-submit-button {
+    background-color: rgb(110, 110, 241);
+    padding: 9px;
+    font-size: 18px;
+    width: 100%;
+    margin-top: 30px;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+
+}
+
+.login-sign-para {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 17px;
+    font-weight: 600;
+    text-decoration: underline;
+    cursor: pointer;
+}
