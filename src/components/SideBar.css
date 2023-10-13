@@ -1,0 +1,22 @@
+@media screen and (max-width: 960px) {
+    .dashboard-dashboard-container {
+        height: 130px;
+        padding: 10px !important;
+        width: 100%;
+        border-radius: 0px !important;
+    }
+
+    .dashboard-text-con {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .logo {
+        margin-bottom: 13px !important;
+    }
+}
+
+.logo {
+    padding: 0px;
+    margin-bottom: 20px;
+}

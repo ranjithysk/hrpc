@@ -4,9 +4,15 @@
 
 }
 
+.logo {
+    border-radius: 50px;
+    width: 70px;
+}
+
 .login-form {
-    width: 30%;
-    padding: 40px;
+    width: 100%;
+    max-width: 380px;
+    padding: 30px;
     border: 3px solid #1DB2FF;
     border-radius: 30px;
     background-color: #fff;
@@ -32,4 +38,20 @@
     font-weight: 600;
     text-decoration: underline;
     cursor: pointer;
+}
+
+.error-msg {
+    color: red;
+    padding-bottom: 0px;
+}
+
+.Login-btn {
+    background-color: #43b2e3;
+    color: #fff;
+}
+
+.Login-btn:hover {
+    background-color: #78d2ff;
+    transition: ease 0.3s all;
+    color: #fff;
 }
